@@ -1,3 +1,4 @@
-# react-ts-8sg6qd
+# JS Tricks
+## By FMedina
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-8sg6qd)
+[View on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-8sg6qd)
